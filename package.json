@@ -1,0 +1,19 @@
+{
+  "name": "starting-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Yulia Evseeva",
+  "license": "ISC"
+}
